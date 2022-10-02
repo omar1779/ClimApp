@@ -28,7 +28,7 @@ function Nav({onSearch}) {
             <h5 className='about-text'>
               About me!
             </h5>
-        <AiFillDatabase
+        <AiFillDatabase className='icon-nav-about'
         style={{
           "height" : "32px",
           "width" : "32px",

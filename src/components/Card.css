@@ -58,3 +58,31 @@
     width: 60%;
   }
 }
+@media only screen and (min-width: 1280px) and (max-width: 1680px) {
+  .card-title{
+    font-size: 25px;
+  }
+  .row-query {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .card{
+    width: 30%;
+    height: 50%;
+  }
+}
+@media only screen and (min-width: 1680px) and (max-width: 1920px) {
+  .card-title{
+    font-size: 25px;
+  }
+  .row-query {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .card{
+    width: 30%;
+    height: 50%;
+  }
+}

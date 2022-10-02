@@ -26,12 +26,12 @@ export default function Card ({min, max, name, img, onClose, id,nubes,latitud,lo
           "color" : "white"
         }} className="row row-query">
           <div className="col-sm-4 col-md-4 col-lg-4">
-            <p>Min</p>
-            <p>{min}°</p>
+            <p>Min {min}°</p>
+            <p></p>
           </div>
           <div className="col-sm-4 col-md-4 col-lg-4">
-            <p>Max</p>
-            <p>{max}°</p>
+            <p>Max {max}°</p>
+            <p></p>
           </div>
           <div className="col-sm-4 col-md-4 col-lg-4">
             <p>Nubes : {nubes}</p>

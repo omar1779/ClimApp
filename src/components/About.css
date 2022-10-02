@@ -90,3 +90,29 @@
         margin-top: 3%;
     }
 }
+@media only screen and (min-width: 1280px) and (max-width: 1680px) {
+    .icon-about {
+        height: 400%;
+        width: 400%;
+        color: #000;
+    }
+    .text-about{
+        font-size: 27px;
+    }
+    .content-about{
+        margin-top: 3%;
+    }
+}
+@media only screen and (min-width: 1680px) and (max-width: 1920px) {
+    .icon-about {
+        height: 400%;
+        width: 400%;
+        color: #000;
+    }
+    .text-about{
+        font-size: 27px;
+    }
+    .content-about{
+        margin-top: 3%;
+    }
+}
